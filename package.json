@@ -1,0 +1,18 @@
+{
+  "name": "code-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
